@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Freud Diablo Finish Saw Blade",
+        "des": "The Freud D0740A Diablo Saw Blade has a high-quality and durable finish,",
+        "minOrder": 5,
+        "stock": 5000,
+        "price": 49,
+        "img": "https://i.ibb.co/z6R8ZTG/1.jpg"
+    },
+    {
+        "name": "DEWALT 10-Inch Miter Table Saw Blades",
+        "des": "The DEWALT 10-Inch Miter Saw Blades come in a 2-pack and are made from durable tungsten carbide material.",
+        "minOrder": 5,
+        "stock": 5000,
+        "price": 69,
+        "img": "https://i.ibb.co/jvcJ1cN/2.jpg"
+    },
+    {
+        "name": "IRWIN Tools Circular Saw Blade",
+        "des": "The IRWIN Tools MARATHON Carbide Corded Circular Saw Blade is a heavy-duty and premium quality circular saw blade that you can use for cutting through different kinds of wood",
+        "minOrder": 5,
+        "stock": 5000,
+        "price": 79,
+        "img": "https://i.ibb.co/Fbs6X1S/3.jpg"
+    },
+    {
+        "name": "Oshlun Tooth Saw Blade",
+        "des": "The Oshlun 36 Tooth Circular Saw Blade is a specialized and durable tungsten carbide blade that cuts through engineered wood pieces smoothly and cleagitnly.",
+        "minOrder": 5,
+        "stock": 5000,
+        "price": 99,
+        "img": "https://i.ibb.co/ccdR5C8/4.jpg"
+    },
+    {
+        "name": "Makita Tipped Circular Saw Blade",
+        "des": "The Makita Carbide-Tipped Circular Saw Blade is a premium quality and high-strength circular saw blade that has the ability to cut through all types of wood",
+        "minOrder": 5,
+        "stock": 5000,
+        "price": 65,
+        "img": "https://i.ibb.co/6By9CmB/5.jpg"
+    }
+],
+
+
+[
+    {
+        "name":"Rafi",
+        "img": "https://api.lorem.space/image/face?hash=92310",
+        "des": "This is a very good product. but the price to high. they should focus on reducing the price",
+        "rating": 4
+    },
+    {
+        "name":"Rafi",
+        "img": "https://api.lorem.space/image/face?hash=92310",
+        "des": "This is a very good product. but the price to high. they should focus on reducing the price",
+        "rating": 5
+    },
+    {
+        "name":"Nadia",
+        "img": "https://api.lorem.space/image/face?hash=92310",
+        "des": "This is a very good product. but the price to high. they should focus on reducing the price",
+        "rating": 3
+    },
+    {
+        "name":"Raida",
+        "img": "https://api.lorem.space/image/face?hash=92310",
+        "des": "This is a very good product. but the price to high. they should focus on reducing the price",
+        "rating": 5
+    }
+]
